@@ -31,4 +31,8 @@ Se ha modificado el archivo README.md donde se han escrito mis datos. <br><br>
 <p style="text-align: justify;">Se han subido los cambios a "staged", se ha hecho un commit sobre estos y se ha pusheado la rama con un comando especial, este es solo para el primer push de la rama creando una relacion con la rama remota de origen y mi rama local.</p>
 <p align="center"> <img src=imagenes/Ej3-5.png></p>
 Por ultimo se ha creado un pull request esperando a que alguien con permisos, en este caso el profesor, me los acepte. <br><br>
-<p align="center"> <img src=imagenes/Ej3-6.png></p>
+<p align="center"> <img src=imagenes/Ej3-6.png></p><br>
+
+### **?. Adicional**
+<p style="text-align: justify;">Se ha cambiado el archivo .gitconfig para que al resolver un conficto que se pueda tener en un futuro con algun archivo se use por defecto Visual Studio Code.</p>
+<p align="center"> <img src=imagenes/Mergetool.png></p>
