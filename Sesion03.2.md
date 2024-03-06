@@ -1,6 +1,7 @@
 # HMIS - Sesion03 -  Learn Git Branching
 ### Maria Martinez Campos 
-[Learn Git Branching](https://learngitbranching.js.org/) 
+[Learn Git Branching](https://learngitbranching.js.org/)
+# Principal 
 ## **1. Secuencia introductoria**
 Una breve introduccion a la mayoría de los comandos de git
 |  Ejercicio | Imagen |
@@ -43,3 +44,30 @@ Un batiburrillo de tecnicas, trucos y sugerencias sobre Git
 | 1. Rebaseando mas de 9000 veces | <p align="center"> <img src=imagenes/sesion03/5.1.png></p>
 | 2. Multiples padres | <p align="center"> <img src=imagenes/sesion03/5.2.png></p> |
 | 3. Ensalada de ramas | <p align="center"> <img src=imagenes/sesion03/5.3.png></p> |
+
+# Remota
+## **1. Push y Pull -- Git Remotes!**
+Hora de compartir vuestros 1's y 0's, chicos; programar se volvio social!
+|  Ejercicio | Imagen |
+| ---- | ---- |
+| 1. Introduccion a clone | <p align="center"> <img src=imagenes/sesion03/R1.1.png></p>
+| 2. Ramas remotas | <p align="center"> <img src=imagenes/sesion03/R1.2.png></p> |
+| 3. git fetch | <p align="center"> <img src=imagenes/sesion03/R1.3.png></p> |
+| 4. git pull | <p align="center"> <img src=imagenes/sesion03/R1.4.png></p> |
+| 5. Simulando el trabajo en equipo | <p align="center"> <img src=imagenes/sesion03/R1.5.png></p> |
+| 6. git push | <p align="center"> <img src=imagenes/sesion03/R1.6.png></p> |
+| 7.  Historia divergente | <p align="center"> <img src=imagenes/sesion03/R1.7.png></p> |
+| 8. Main bloqueado | <p align="center"> <img src=imagenes/sesion03/R1.8.png></p> |
+
+## **2. Hasta el origen y mas alla -- Git Remotes avanzado!**
+Y pensabas que ser un dictador benevolo seria divertido...
+|  Ejercicio | Imagen |
+| ---- | ---- |
+| 1. ¡Push Main! | <p align="center"> <img src=imagenes/sesion03/R2.1.png></p>
+| 2. Haciendo merge con los remotos | <p align="center"> <img src=imagenes/sesion03/R2.2.png></p> |
+| 3. Trackeando remotos | <p align="center"> <img src=imagenes/sesion03/R2.3.png></p> |
+| 4. Parametros de git push | <p align="center"> <img src=imagenes/sesion03/R2.4.png></p> |
+| 5. ¡Mas! Parametros de git push | <p align="center"> <img src=imagenes/sesion03/R2.5.png></p> |
+| 6. Parametros de fetch | <p align="center"> <img src=imagenes/sesion03/R2.6.png></p> |
+| 7. Origen de nada | <p align="center"> <img src=imagenes/sesion03/R2.7.png></p> |
+| 8. Parametros de pull | <p align="center"> <img src=imagenes/sesion03/R2.8.png></p> |
