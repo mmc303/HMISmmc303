@@ -71,3 +71,10 @@ Y pensabas que ser un dictador benevolo seria divertido...
 | 6. Parametros de fetch | <p align="center"> <img src=imagenes/sesion03/R2.6.png></p> |
 | 7. Origen de nada | <p align="center"> <img src=imagenes/sesion03/R2.7.png></p> |
 | 8. Parametros de pull | <p align="center"> <img src=imagenes/sesion03/R2.8.png></p> |
+
+### **?. Adicional**
+Borradores de ejercicios que me resolvi de manera menos limpia.
+|  Ejercicio | Imagen |
+| ---- | ---- |
+| 1. ¡Push Main! | <p align="center"> <img src=imagenes/sesion03/R2.1m.png></p>
+| 5. ¡Mas! Parametros de git push | <p align="center"> <img src=imagenes/sesion03/R2.5m.png></p> |
